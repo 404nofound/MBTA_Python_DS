@@ -3,11 +3,11 @@
 # MBTA
 Data Science - Analyze MBTA System's Performance and Reliability. Program uses Python Jupyter.
 
-#### MBTA Raw Data can be found [Here](http://mbtabackontrack.com/performance/index.html#/download).
-#### Weather (Temperature) Data has been upload on GitHub.
-#### Week, Month Data are from third party libarary, user can found in code.
+MBTA Raw Data can be found [Here](http://mbtabackontrack.com/performance/index.html#/download).</br>
 
-</br>
+Weather (Temperature) Data has been upload on GitHub.</br>
+
+Week, Month Data are from third party libarary, user can found in code.</br>
 
 ### Data Description
 * Commuter Rail: MBTA provide data from 2013 - 2018
