@@ -1,7 +1,7 @@
 # -----In Progress-----
 
 # MBTA
-Data Science - Analyze MBTA System's Performance and Reliability. Program uses Python Jupyter.
+`Data Science` - Analyze MBTA System's `Performance and Reliability`. Program uses `Python Jupyter`.
 
 MBTA Raw Data can be found [Here](http://mbtabackontrack.com/performance/index.html#/download).</br>
 
